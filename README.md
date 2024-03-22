@@ -1,0 +1,2 @@
+# Analyzing-the-Impact-of-Road-Visibility-Conditions-on-the-Severity-of-Vehicle-Accidents
+ This GitHub repository hosts a project analyzing the impact of road visibility on car accident severity in the U.S. We employ Chi-square tests to investigate the relationship between different visibility levels and accident outcomes, aiming to provide insights that could influence road safety policies and interventions.
